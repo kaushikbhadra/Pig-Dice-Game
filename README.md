@@ -8,4 +8,4 @@
   <li>The first player to reach 100 points on GLOBAL score wins the game</li>
 </ui>
 <h4>License</h4>
-<p>Licensed under the [MIT License]</p>
+<p>Licensed under the <a href="#LICENSE">[MIT License]</a> </P>
