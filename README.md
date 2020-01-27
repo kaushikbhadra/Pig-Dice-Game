@@ -9,3 +9,4 @@
 </ui>
 <h4>License</h4>
 <p>Licensed under the <a href="#LICENSE">[MIT License]</a> </P>
+[MIT License](LICENSE)
