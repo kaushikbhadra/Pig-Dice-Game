@@ -8,5 +8,5 @@
   <li>The first player to reach 100 points on GLOBAL score wins the game</li>
 </ui>
 <h4>License</h4>
-<p>Licensed under the <a href="#LICENSE">[MIT License]</a> </P>
-[MIT License](LICENSE)
+<p>Licensed under the <a href="https://github.com/kaushikbhadra/Pig-Dice-Game/blob/master/LICENSE">[MIT License]</a> </P>
+
